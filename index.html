@@ -137,7 +137,7 @@
 
     async function loadMatches() {
       try {
-        const res = await fetch('https://web.yosintv.link/crickett.json');
+        const res = await fetch('/api/cricket.json');
         if (!res.ok) throw new Error();
         const data = await res.json();
         allMatches = data.matches.map(m => ({ ...m }));
