@@ -3,16 +3,16 @@
     {
       "team1": "Crystal Palace",
       "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png",
-      "team2": "Manchester United",
+      "team2": "Man United",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png",
       "start": "2025-11-30T21:00:00+09:00",
       "details_url": "https://blog.cricfoot.net/?yosintv=manunited",
       "duration": 2
     },
     {
-      "team1": "West Ham United",
+      "team1": "West Ham",
       "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/west-ham-united.png",
-      "team2": "Liverpool",
+      "team2": "team2": "Liverpool",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png",
       "start": "2025-11-30T23:05:00+09:00",
       "details_url": "https://blog.cricfoot.net/?yosintv=liverpool",
@@ -21,16 +21,16 @@
     {
       "team1": "Aston Villa",
       "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png",
-      "team2": "Wolverhampton Wanderers",
+      "team2": "Wolves",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/wolverhampton-wanderers.png",
       "start": "2025-11-30T23:05:00+09:00",
       "details_url": "https://blog.cricfoot.net/?yosintv=astonvilla",
       "duration": 2
     },
     {
-      "team1": "Nottingham Forest",
+      "team1": "Nottingham",
       "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png",
-      "team2": "Brighton & Hove Albion",
+      "team2": "Brighton",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png",
       "start": "2025-11-30T23:05:00+09:00",
       "details_url": "https://blog.cricfoot.net/?yosintv=nottingham",
@@ -39,7 +39,7 @@
     {
       "team1": "Pisa",
       "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/pisa.png",
-      "team2": "Internazionale",
+      "team2": "Inter Milan",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png",
       "start": "2025-11-30T23:00:00+09:00",
       "details_url": "https://blog.cricfoot.net/?yosintv=intermilan",
