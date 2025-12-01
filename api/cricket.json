@@ -1,35 +1,5 @@
 {
-  "matches": [ 
-  
-{
-  "team1": "Aspin Stallions",
-  "team1_logo": "https://aimages.willow.tv/teamLogos/aspinstallions.png",
-  "team2": "UAE Bulls",
-  "team2_logo": "https://aimages.willow.tv/teamLogos/uaebulls.png",
-  "start": "2025-11-30T22:45:00+09:00",
-  "details_url": "https://blog.cricfoot.net/?yosintv=extra",
-  "duration": 5
-},
-
-  {
-  "team1": "Karnali ",
-  "team1_logo": "https://cdn.yosintv.link/npl/karnali.png",
-  "team2": "Kathmandu ",
-  "team2_logo": "https://cdn.yosintv.link/npl/kathmandu.png",
-  "start": "2025-11-30T18:45:00+09:00",
-  "details_url": "https://blog.cricfoot.net/?yosintv=npl",
-  "duration": 5
-},
-
-  {
-  "team1": "India",
-  "team1_logo": "https://aimages.willow.tv/teamLogos/india.png",
-  "team2": "South Africa",
-  "team2_logo": "https://aimages.willow.tv/teamLogos/southafrica.png",
-  "start": "2025-11-30T17:00:00+09:00",
-  "details_url": "https://blog.cricfoot.net/?yosintv=india",
-  "duration": 10
-},
+  "matches": [
 
 {
   "team1": "New Zealand",
@@ -67,7 +37,36 @@
   "start": "2025-12-04T13:00:00+09:00",
   "details_url": "https://blog.cricfoot.net/?yosintv=england",
   "duration": 10
-}
+},
+
+{
+  "team1": "Chitwan Rhinos",
+  "team1_logo": "https://cdn.yosintv.link/npl/chitwan.png",
+  "team2": "Janakpur Bolts",
+  "team2_logo": "https://cdn.yosintv.link/npl/janakpur.png",
+  "start": "2025-11-30T15:00:00+09:00",
+  "details_url": "https://blog.cricfoot.net/?yosintv=npl",
+  "duration": 5
+},
+{
+  "team1": "Karnali Yaks",
+  "team1_logo": "https://cdn.yosintv.link/npl/karnali.png",
+  "team2": "Pokhara Avengers",
+  "team2_logo": "https://cdn.yosintv.link/npl/pokhara.png",
+  "start": "2025-11-30T19:15:00+09:00",
+  "details_url": "https://blog.cricfoot.net/?yosintv=npl",
+  "duration": 5
+},
+{
+  "team1": "Dubai Capitals",
+  "team1_logo": "https://aimages.willow.tv/teamLogos/dubaicapitals.png",
+  "team2": "Desert Vipers",
+  "team2_logo": "https://aimages.willow.tv/teamLogos/desertvipers.png",
+  "start": "2025-11-30T23:30:00+09:00",
+  "details_url": "https://blog.cricfoot.net/?yosintv=ilt20",
+  "duration": 5
+},
+
 
 ]
 }
