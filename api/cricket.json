@@ -16,7 +16,7 @@
   "team1_logo": "https://aimages.willow.tv/teamLogos/india.png",
   "team2": "South Africa",
   "team2_logo": "https://aimages.willow.tv/teamLogos/southafrica.png",
-  "start": "2025-12-03T17:00:00+09:00",
+  "start": "2025-12-06T17:00:00+09:00",
   "details_url": "https://blog.cricfoot.net/?yosintv=india",
   "duration": 8
 },
@@ -26,7 +26,7 @@
   "team1_logo": "https://aimages.willow.tv/teamLogos/australia.png",
   "team2": "England",
   "team2_logo": "https://aimages.willow.tv/teamLogos/england.png",
-  "start": "2025-12-04T13:00:00+09:00",
+  "start": "2025-12-05T13:00:00+09:00",
   "details_url": "https://blog.cricfoot.net/?yosintv=england",
   "duration": 10
 },
@@ -59,7 +59,17 @@
     "start": "2025-12-04T23:30:00+09:00",
     "details_url": "https://blog.cricfoot.net/?yosintv=ilt20",
     "duration": 5
-  }
+  },
+
+{
+  "team1": "Janakpur Bolts",
+  "team1_logo": "https://cdn.yosintv.link/npl/janakpur.png",
+  "team2": "Lumbini Lions",
+  "team2_logo": "https://cdn.yosintv.link/npl/lumbini.png",
+  "start": "2025-12-05T19:15:00+09:00",
+  "details_url": "https://blog.cricfoot.net/?yosintv=npl",
+  "duration": 5
+}
 
 ]
 }
