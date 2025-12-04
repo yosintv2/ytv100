@@ -49,7 +49,17 @@
   "start": "2025-12-04T19:15:00+09:00",
   "details_url": "https://blog.cricfoot.net/?yosintv=npl",
   "duration": 5
-}
+},
+
+  {
+    "team1": "Gulf Giants",
+    "team1_logo": "https://aimages.willow.tv/teamLogos/gulfgiants.png",
+    "team2": "MI Emirates",
+    "team2_logo": "https://aimages.willow.tv/teamLogos/miemirates.png",
+    "start": "2025-12-04T23:30:00+09:00",
+    "details_url": "https://blog.cricfoot.net/?yosintv=ilt20",
+    "duration": 5
+  }
 
 ]
 }
