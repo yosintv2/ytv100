@@ -1,5 +1,6 @@
 {
   "matches": [
+
     {
       "team1": "Aston Villa",
       "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png",
@@ -92,7 +93,7 @@
 
     {
       "team1": "Deportivo Alavés",
-      "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/alaves.png",
+      "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png",
       "team2": "Real Sociedad",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png",
       "start": "2025-12-07T00:15:00+09:00",
@@ -132,7 +133,7 @@
 
     {
       "team1": "PSG",
-      "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/paris-saint-germain.png",
+      "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png",
       "team2": "Rennes",
       "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/rennes.png",
       "start": "2025-12-07T05:05:00+09:00",
@@ -142,12 +143,13 @@
 
     {
       "team1": "Inter Miami",
-      "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/usa/logos/inter-miami.png",
+      "team1_logo": "https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/inter-miami.png",
       "team2": "Vancouver",
-      "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/usa/logos/vancouver-whitecaps.png",
+      "team2_logo": "https://cdn.livesoccertv.com/tt/images/teams/canada/logos/whitecaps.png",
       "start": "2025-12-07T04:30:00+09:00",
       "details_url": "https://blog.cricfoot.net/?yosintv=intermiami",
       "duration": 2
     }
+
   ]
 }
