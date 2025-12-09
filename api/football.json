@@ -2,6 +2,16 @@
     "matches": [
 
         {
+            "team1": "Kairat",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8037.png",
+            "team2": "Olympiakos Piraeus",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8638.png",
+            "start": "2025-12-10T00:30:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/akk.html?url=_____",
+            "duration": 2
+        },
+        
+        {
             "team1": "Egypt",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
             "team2": "Jordan",
