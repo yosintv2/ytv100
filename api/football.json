@@ -1,104 +1,92 @@
 {
     "matches": [
-
         {
-            "team1": " Seoul",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/92630.png",
-            "team2": "Melbourne City ",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
-            "start": "2025-12-10T19:00:00+09:00",
-            "details_url": "https://yosintv2.github.io/ads/ak.html?url=132343",
+            "team1": "Utrecht",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9908.png",
+            "team2": "Nottingham ",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+            "start": "2025-12-12T02:45:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=nottingham",
             "duration": 2
         },
 
         {
-            "team1": "Qarabağ",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7981.png",
-            "team2": "Ajax",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8593.png",
-            "start": "2025-12-11T02:45:00+09:00",
-            "details_url": "https://yosintv2.github.io/ads/aks.html?url=https://ytvlive.pages.dev/stream?id=sports5",
+            "team1": "Dinamo Zagreb",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10156.png",
+            "team2": "Real Betis",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+            "start": "2025-12-12T02:45:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=realbetis",
             "duration": 2
         },
 
         {
-            "team1": "Villarreal",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-            "team2": "København",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8391.png",
-            "start": "2025-12-11T02:45:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=villarreal",
+            "team1": "Basel",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9931.png",
+            "team2": "Aston Villa",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+            "start": "2025-12-12T05:00:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
             "duration": 2
         },
 
         {
-            "team1": "Real Madrid",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "team2": "Man City",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=mancity",
-            "duration": 2
-        },
-        
-        {
-            "team1": "Club Brugge",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8342.png",
-            "team2": "Arsenal",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=arsenal",
+            "team1": "Celtic",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9925.png",
+            "team2": "Roma",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+            "start": "2025-12-12T05:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=roma",
             "duration": 2
         },
 
         {
-            "team1": "Athletic Club",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-            "team2": "PSG",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=psg",
-            "duration": 2
-        },
-
-        
-        {
-            "team1": "Leverkusen",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
-            "team2": "Newcastle",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=newcastle",
+            "team1": "Nice",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
+            "team2": "Sporting Braga",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
+            "start": "2025-12-12T02:45:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
             "duration": 2
         },
 
         {
-            "team1": "Benfica",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
-            "team2": "Napoli",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=benfica",
+            "team1": "Young Boys",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
+            "team2": "Lille",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
+            "start": "2025-12-12T02:45:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
             "duration": 2
         },
 
         {
-            "team1": "Dortmund",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-            "team2": "Bodø / Glimt",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8402.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=dortmund",
+            "team1": "Brann",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8468.png",
+            "team2": "Fenerbahce",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8695.png",
+            "start": "2025-12-12T05:00:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
             "duration": 2
         },
 
         {
-            "team1": "Juventus",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-            "team2": "Paphos",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2137.png",
-            "start": "2025-12-11T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=juventus",
+            "team1": "Porto",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png",
+            "team2": "Malmo FF",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10237.png",
+            "start": "2025-12-12T05:00:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
+            "duration": 2
+        },
+
+        {
+            "team1": "Celta Vigo",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
+            "team2": "Bologna",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+            "start": "2025-12-12T05:00:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
             "duration": 2
         }
     ]
