@@ -1,37 +1,5 @@
 {
     "matches": [
-
-        {
-            "team1": "India",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/india.png",
-            "team2": "South Africa",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/southafrica.png",
-            "start": "2025-12-14T22:30:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=india",
-            "duration": 5
-        },
-
-        {
-            "team1": "New Zealand",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/newzealand.png",
-            "team2": "West Indies",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/westindies.png",
-            "start": "2025-12-12T07:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=newzealand",
-            "duration": 8
-        },
-        
-
-        {
-            "team1": "Biratnagar Kings",
-            "team1_logo": "https://cdn.yosintv.link/npl/biratnagar.png",
-            "team2": "Lumbini Lions",
-            "team2_logo": "https://cdn.yosintv.link/npl/lumbini.png",
-            "start": "2025-12-11T19:15:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=npl",
-            "duration": 5
-        },
-
         {
             "team1": "Gulf Giants",
             "team1_logo": "https://aimages.willow.tv/teamLogos/gulfgiants.png",
@@ -43,8 +11,8 @@
         },
 
         {
-            "team1": "Sudur Paschim Royals",
-            "team1_logo": "https://cdn.yosintv.link/cricket.png",
+            "team1": "Sudurpaschim Royals",
+            "team1_logo": "https://cdn.yosintv.link/npl/supa.png",
             "team2": "Lumbini Lions",
             "team2_logo": "https://cdn.yosintv.link/npl/lumbini.png",
             "start": "2025-12-13T18:45:00+09:00",
