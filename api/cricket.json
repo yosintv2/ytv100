@@ -24,28 +24,6 @@
 
 
         {
-            "team1": "IPL Auction",
-            "team1_logo": "https://crystalpng.com/wp-content/uploads/2025/09/ipl-logo.png",
-            "team2": "IPL Auction",
-            "team2_logo": "https://crystalpng.com/wp-content/uploads/2025/09/ipl-logo.png",
-            "start": "2025-12-16T18:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=ipl",
-            "duration": 5
-        },
-
-        {
-            "team1": "Afghanistan U19",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/afghanistan.png",
-            "team2": "Nepal U19",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
-            "start": "2025-12-17T14:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=nepal",
-            "duration": 10,
-            "_memo": "/////////////// Nepal U19 Matches /////////////// "
-        },
-
-
-        {
             "team1": "Sydney Sixers",
             "team1_logo": "https://aimages.willow.tv/teamLogos/sydneysixers.png",
             "team2": "Adelaide Strikers",
