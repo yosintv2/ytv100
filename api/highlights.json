@@ -4,7 +4,7 @@
   "id": "bwtq992157",
   "team1": "Palmeiras",
   "team2": "FC Porto",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=ZdsthLh9CE8"
 },
@@ -12,7 +12,7 @@
   "id": "cdzz482622",
   "team1": "Paris Saint-Germain",
   "team2": "Atlético Madrid",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=6Y5XRJLmHRs"
 },
@@ -20,7 +20,7 @@
   "id": "wkio683774",
   "team1": "Botafogo",
   "team2": "Seattle Sounders FC",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=Frhk5wjfDpk"
 },
@@ -28,7 +28,7 @@
   "id": "phst878075",
   "team1": "FC Bayern München",
   "team2": "Auckland City",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=K9rs3SjAGDY"
 },
@@ -37,7 +37,7 @@
   "id": "bwtq992157",
   "team1": "Palmeiras",
   "team2": "FC Porto",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=ZdsthLh9CE8"
 },
@@ -45,7 +45,7 @@
   "id": "cdzz482622",
   "team1": "Paris Saint-Germain",
   "team2": "Atlético Madrid",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=6Y5XRJLmHRs"
 },
@@ -53,7 +53,7 @@
   "id": "wkio683774",
   "team1": "Botafogo",
   "team2": "Seattle Sounders FC",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=Frhk5wjfDpk"
 },
@@ -61,7 +61,7 @@
   "id": "phst878075",
   "team1": "FC Bayern München",
   "team2": "Auckland City",
-  "category": "FIFA Club World Cup",
+  "category": "FIFA FIFA Club World Cup",
   "date": "2025-06-16",
   "link": "https://www.youtube.com/watch?v=K9rs3SjAGDY"
 },
@@ -2158,21 +2158,21 @@
     "id": "chevpso",
     "team1": "Chelsea",
     "team2": "Psg",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/13/1752444687642/index.m3u8"
   },
   {
     "id": "psgvrma",
     "team1": "Psg",
     "team2": "Real Madrid",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/09/1752099734322/index.m3u8"
   },
   {
     "id": "fluvche",
     "team1": "Fluminense",
     "team2": "Chelsea",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/08/1752012806422/index.m3u8"
   },
   {
@@ -2186,77 +2186,77 @@
     "id": "psgvbay",
     "team1": "Psg",
     "team2": "Bayern Munich",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/05/1751755023501/index.m3u8"
   },
   {
     "id": "rmavdor",
     "team1": "Real Madrid",
     "team2": "Borussia Dortmund",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/05/1751757052062/index.m3u8"
   },
   {
     "id": "9",
     "team1": "Real Madrid",
     "team2": "Juventus",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/01/1751405254317/index.m3u8"
   },
   {
     "id": "8",
     "team1": "Man City",
     "team2": "Al Hilal",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "video?src=https://highlight.api-football.xyz/2025/07/01/1751342895783/index.m3u8"
   },
   {
     "id": "7",
     "team1": "Inter Milan",
     "team2": "Fluminense",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://yosintv.github.io/player/player3.html?url=https://highlight.api-football.xyz/2025/06/30/1751318219686/index.m3u8"
   },
   {
     "id": "6",
     "team1": "Psg",
     "team2": "Inter Miami",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://nirutv.online/Player/yt?id=2eY74BW4SbE"
   },
   {
     "id": "5",
     "team1": "Benfica",
     "team2": "Chelsea",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://yosintv.github.io/player/dmca.html?url=https://highlight.api-football.xyz/2025/06/29/1751158726949/index.m3u8"
   },
   {
     "id": "4",
     "team1": "Salzburg",
     "team2": "Real Madrid",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://yosintv.github.io/yosintv/jwplayers.html?src=https://hoofootay4.spotlightmoment.com/embed/jmz1kEPk0KfqV"
   },
   {
     "id": "3",
     "team1": "Juventus",
     "team2": "Man City",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://yosintv2.github.io/bkp/plyrr.html?url=https://highlight.api-football.xyz/2025/06/26/1750975222976/index.m3u8"
   },
   {
     "id": "2",
     "team1": "Wydad Ac",
     "team2": "Al Ain Fc",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://yosintv2.github.io/bkp/plyrr.html?url=https://highlight.api-football.xyz/2025/06/26/1750974481507/index.m3u8"
   },
   {
     "id": "1",
     "team1": "Inter Milan",
     "team2": "River Plate",
-    "category": "Club World Cup",
+    "category": "FIFA Club World Cup",
     "link": "https://yosintv2.github.io/bkp/plyrr.html?url=https://highlight.api-football.xyz/2025/06/26/1750918035573/index.m3u8"
   }
 ]
