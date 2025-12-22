@@ -1,6 +1,36 @@
 {
     "matches": [
         {
+            "team1": "Mali",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5815.png",
+            "team2": "Zambia",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6277.png",
+            "start": "2025-12-22T23:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=mali",
+            "duration": 2.2
+        },
+
+        {
+            "team1": "South Africa",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
+            "team2": "Angola",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6712.png",
+            "start": "2025-12-23T02:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=southafrica",
+            "duration": 2.2
+        },
+
+        {
+            "team1": "Egypt",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
+            "team2": "Zimbabwe",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6290.png",
+            "start": "2025-12-23T05:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=egypt",
+            "duration": 2.2
+        },
+
+        {
             "team1": "Fulham",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
             "team2": "Nottingham Forest",
@@ -34,7 +64,7 @@
             "team1": "Benfica",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
             "team2": "Famalicão",
-            "team2_logo": "https://cdn.yosintv.link/football.png",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5815.png",
             "start": "2025-12-23T05:45:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=benfica",
             "duration": 2.2
