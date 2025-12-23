@@ -1,166 +1,138 @@
 [
   {
-    "name": "Aarav Sharma",
-    "profilePicture": "https://randomuser.me/api/portraits/men/32.jpg",
-    "livesIn": "Kathmandu, Nepal",
-    "from": "Biratnagar, Nepal",
-    "work": "Software Engineer at Deerwalk Inc.",
-    "education": [
-      "Studied Computer Engineering at Pulchowk Campus",
-      "Went to St. Xavier's College, Maitighar",
-      "Went to Galaxy Public School"
+    "name": "Common Cold",
+    "symptoms": [
+      "Runny or stuffy nose",
+      "Sore throat",
+      "Cough",
+      "Mild headache",
+      "Sneezing",
+      "Low-grade fever"
     ],
-    "placesLived": [
-      { "location": "Kathmandu, Nepal", "description": "Current city" },
-      { "location": "Biratnagar, Nepal", "description": "Hometown" }
+    "remedies": [
+      "Drink warm fluids like herbal tea, soup, or warm water with lemon",
+      "Gargle with salt water for sore throat",
+      "Honey and ginger tea to soothe cough",
+      "Steam inhalation with eucalyptus or menthol",
+      "Get plenty of rest and stay hydrated"
+    ],
+    "prevention": [
+      "Wash hands frequently",
+      "Avoid touching face",
+      "Boost immunity with Vitamin C-rich foods",
+      "Stay warm and avoid sudden temperature changes"
     ]
   },
   {
-    "name": "Priya Gurung",
-    "profilePicture": "https://randomuser.me/api/portraits/women/45.jpg",
-    "livesIn": "Pokhara, Nepal",
-    "from": "Gorkha, Nepal",
-    "work": "Tour Guide at Lakeside Adventures",
-    "education": [
-      "Studied Tourism Management at Pokhara University",
-      "Went to SOS Hermann Gmeiner School",
-      "Went to Gandaki Boarding School"
+    "name": "Influenza (Flu)",
+    "symptoms": [
+      "High fever",
+      "Body aches and muscle pain",
+      "Fatigue and weakness",
+      "Dry cough",
+      "Sore throat",
+      "Headache"
     ],
-    "placesLived": [
-      { "location": "Pokhara, Nepal", "description": "Current city" },
-      { "location": "Gorkha, Nepal", "description": "Hometown" },
-      { "location": "Kathmandu, Nepal", "description": "" }
+    "remedies": [
+      "Rest completely and stay hydrated",
+      "Warm turmeric milk (haldi doodh)",
+      "Ginger-tulsi tea for immunity",
+      "Chicken soup or vegetable broth",
+      "Warm salt water gargles"
+    ],
+    "prevention": [
+      "Get annual flu vaccination",
+      "Avoid close contact with sick people",
+      "Cover mouth and nose while coughing/sneezing",
+      "Maintain good hygiene"
     ]
   },
   {
-    "name": "Rajesh Thapa",
-    "profilePicture": "https://randomuser.me/api/portraits/men/67.jpg",
-    "livesIn": "Lalitpur, Nepal",
-    "from": "Dhankuta, Nepal",
-    "work": "No workplaces to show",
-    "education": [
-      "Studied MBBS at NAIHS – College of Medicine, Kathmandu",
-      "Went to Trinity International College, Dillibazar",
-      "Went to SSES"
+    "name": "Dry Skin",
+    "symptoms": [
+      "Itchy, flaky skin",
+      "Rough patches",
+      "Redness and irritation",
+      "Cracked skin especially on hands and heels"
     ],
-    "placesLived": [
-      { "location": "Lalitpur, Nepal", "description": "Current city" },
-      { "location": "Dhankuta, Nepal", "description": "Hometown" }
+    "remedies": [
+      "Apply coconut oil or almond oil after bath",
+      "Use honey as natural moisturizer",
+      "Aloe vera gel for soothing",
+      "Oatmeal bath for itch relief",
+      "Drink plenty of water"
+    ],
+    "prevention": [
+      "Moisturize immediately after bathing",
+      "Use mild, fragrance-free soaps",
+      "Wear warm, breathable clothing",
+      "Use a humidifier indoors"
     ]
   },
   {
-    "name": "Nisha Tamang",
-    "profilePicture": "https://randomuser.me/api/portraits/women/23.jpg",
-    "livesIn": "Bharatpur, Nepal",
-    "from": "Ilam, Nepal",
-    "work": "Teacher at Little Angels' School",
-    "education": [
-      "B.Ed. at Tribhuvan University",
-      "Went to Xavier International College",
-      "Went to Ilam Model School"
+    "name": "Sore Throat",
+    "symptoms": [
+      "Pain or scratchy sensation in throat",
+      "Difficulty swallowing",
+      "Swollen glands in neck",
+      "Hoarse voice"
     ],
-    "placesLived": [
-      { "location": "Bharatpur, Nepal", "description": "Current city" },
-      { "location": "Ilam, Nepal", "description": "Hometown" }
+    "remedies": [
+      "Warm salt water gargles (½ tsp salt in warm water)",
+      "Honey and lemon in warm water",
+      "Herbal teas with ginger, licorice, or tulsi",
+      "Lozenges or hard candy to keep throat moist"
+    ],
+    "prevention": [
+      "Avoid cold drinks and ice cream",
+      "Stay hydrated",
+      "Avoid smoking and polluted air",
+      "Keep throat covered in cold weather"
     ]
   },
   {
-    "name": "Kiran Magar",
-    "profilePicture": "https://randomuser.me/api/portraits/men/81.jpg",
-    "livesIn": "Birgunj, Nepal",
-    "from": "Syangja, Nepal",
-    "work": "Business Owner - Import/Export",
-    "education": [
-      "Studied BBA at Kathmandu University",
-      "Went to Budhanilkantha School",
-      "Went to Syangja Higher Secondary School"
+    "name": "Dry Cough",
+    "symptoms": [
+      "Persistent dry, tickly cough",
+      "No phlegm or mucus",
+      "Throat irritation",
+      "Worse at night"
     ],
-    "placesLived": [
-      { "location": "Birgunj, Nepal", "description": "Current city" },
-      { "location": "Syangja, Nepal", "description": "Hometown" },
-      { "location": "Kathmandu, Nepal", "description": "" }
+    "remedies": [
+      "Honey with black pepper or ginger",
+      "Warm turmeric milk before bed",
+      "Steam inhalation with a few drops of eucalyptus oil",
+      "Tulsi and clove tea",
+      "Keep throat moist with warm fluids"
+    ],
+    "prevention": [
+      "Avoid cold and dry air",
+      "Use scarf to cover mouth in cold weather",
+      "Stay away from dust and smoke",
+      "Maintain indoor humidity"
     ]
   },
   {
-    "name": "Sofia Rai",
-    "profilePicture": "https://randomuser.me/api/portraits/women/56.jpg",
-    "livesIn": "Kathmandu, Nepal",
-    "from": "Jhapa, Nepal",
-    "work": "Graphic Designer (Freelance)",
-    "education": [
-      "Studied Multimedia at Islington College",
-      "Went to Reliance International Academy",
-      "Went to Shree Shikshya Sadan"
+    "name": "Sinusitis",
+    "symptoms": [
+      "Facial pain or pressure",
+      "Nasal congestion",
+      "Thick nasal discharge",
+      "Reduced sense of smell",
+      "Headache"
     ],
-    "placesLived": [
-      { "location": "Kathmandu, Nepal", "description": "Current city" },
-      { "location": "Jhapa, Nepal", "description": "Hometown" }
-    ]
-  },
-  {
-    "name": "Anil KC",
-    "profilePicture": "https://randomuser.me/api/portraits/men/19.jpg",
-    "livesIn": "Butwal, Nepal",
-    "from": "Palpa, Nepal",
-    "work": "Civil Engineer at Department of Roads",
-    "education": [
-      "Studied Civil Engineering at IOE, Pulchowk",
-      "Went to St. Anne's Secondary School",
-      "Went to Tansen Mission School"
+    "remedies": [
+      "Steam inhalation with mint or ajwain",
+      "Warm compress on face",
+      "Ginger and garlic soup",
+      "Drink warm turmeric water",
+      "Nasal irrigation with saline water"
     ],
-    "placesLived": [
-      { "location": "Butwal, Nepal", "description": "Current city" },
-      { "location": "Palpa, Nepal", "description": "Hometown" }
-    ]
-  },
-  {
-    "name": "Riya Limbu",
-    "profilePicture": "https://randomuser.me/api/portraits/women/78.jpg",
-    "livesIn": "Dharan, Nepal",
-    "from": "Taplejung, Nepal",
-    "work": "Nurse at B.P. Koirala Institute of Health Sciences",
-    "education": [
-      "Studied Nursing at BPKIHS",
-      "Went to Sukraraj Secondary School",
-      "Went to Pathibhara Boarding School"
-    ],
-    "placesLived": [
-      { "location": "Dharan, Nepal", "description": "Current city" },
-      { "location": "Taplejung, Nepal", "description": "Hometown" },
-      { "location": "Kathmandu, Nepal", "description": "" }
-    ]
-  },
-  {
-    "name": "Suman Pandey",
-    "profilePicture": "https://randomuser.me/api/portraits/men/44.jpg",
-    "livesIn": "Hetauda, Nepal",
-    "from": "Baglung, Nepal",
-    "work": "No workplaces to show",
-    "education": [
-      "Studied Hotel Management at Nepal Academy of Tourism",
-      "Went to Himalayan WhiteHouse College",
-      "Went to Gorkha English Boarding School"
-    ],
-    "placesLived": [
-      { "location": "Hetauda, Nepal", "description": "Current city" },
-      { "location": "Baglung, Nepal", "description": "Hometown" }
-    ]
-  },
-  {
-    "name": "Elena Bhatta",
-    "profilePicture": "https://randomuser.me/api/portraits/women/91.jpg",
-    "livesIn": "Kathmandu, Nepal",
-    "from": "Nepalgunj, Nepal",
-    "work": "Marketing Manager at Chaudhary Group",
-    "education": [
-      "MBA at Ace Institute of Management",
-      "Studied BBA at Kathmandu College of Management",
-      "Went to Brightland Secondary School"
-    ],
-    "placesLived": [
-      { "location": "Kathmandu, Nepal", "description": "Current city" },
-      { "location": "Nepalgunj, Nepal", "description": "Hometown" },
-      { "location": "Pokhara, Nepal", "description": "" }
+    "prevention": [
+      "Keep nasal passages moist",
+      "Avoid allergens and smoke",
+      "Stay hydrated",
+      "Use humidifier during dry winter"
     ]
   }
 ]
