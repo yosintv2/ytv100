@@ -4,13 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YoSinTV - Cricket | Football | Playing XI | Match Preview</title>
-    <!-- Updated standard CDN for Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <link href='/favico.png' rel='icon' type='image/x-icon'/>
 <style>
 /* --- CUSTOM CSS FOR LIGHT THEME FOTMOB STYLE (CENTERED LAYOUT) --- */
-   
-    body {
+       body {
         font-family: 'Poppins', sans-serif;
         background-color: #f3f4f6; /* Light Gray Background (Default) */
         color: #1f2937; /* Dark Text (Default) */
@@ -20,10 +18,8 @@
         background-color: #111827; /* Very Dark Gray */
         color: #f3f4f6; /* Light Text */
     }
-   
-    .match-schedule-container { max-width: 1000px; margin: 0 auto; padding: 0 1rem 3rem; box-sizing: border-box; }
-   
-    .league-title {
+       .match-schedule-container { max-width: 1000px; margin: 0 auto; padding: 0 1rem 3rem; box-sizing: border-box; }
+       .league-title {
         font-size: 1rem; font-weight: 700; margin: 20px auto 15px;
         background: #1d4ed8; /* Primary Blue */
         color: white;
@@ -31,8 +27,7 @@
         width: calc(100% - 1rem); max-width: 960px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
-   
-    /* Match Card */
+       /* Match Card */
     .match-card {
         display: block; border-radius: 12px;
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -42,8 +37,7 @@
         width: calc(100% - 1rem); max-width: 960px;
         transition: all 0.25s;
     }
-   
-    /* Dark Mode Match Card */
+       /* Dark Mode Match Card */
     .dark .match-card {
         background: #374151; /* Darker Card Background */
         border-color: #4b5563;
@@ -58,8 +52,7 @@
     }
     /* Content Layout - Reduced gap for tighter look */
     .match-card-content { display: flex; flex-direction: column; gap: 6px; }
-   
-    /* Key change: Team Layout for Centering */
+       /* Key change: Team Layout for Centering */
     .match-row-teams {
         display: flex;
         align-items: center;
@@ -67,8 +60,7 @@
         width: 100%;
         gap: 8px; /* Reduced gap between teams and center */
     }
-   
-    /* * Team Containers: Updated to use flex properties for better mobile responsiveness.
+       /* * Team Containers: Updated to use flex properties for better mobile responsiveness.
       * flex-grow: 1 ensures they fill available space.
       * min-width: 0 is critical to allow flex items to shrink below their content size.
       */
@@ -111,14 +103,12 @@
     .dark .match-team-name {
         color: #f3f4f6;
     }
-   
-    /* Home team name is placed to the left of the logo and aligns right */
+       /* Home team name is placed to the left of the logo and aligns right */
     .match-team.home .match-team-name {
         order: -1;
         text-align: right;
     }
-   
-    /* Away team name is placed to the right of the logo and aligns left */
+       /* Away team name is placed to the right of the logo and aligns left */
     .match-team.away .match-team-name {
         order: 1;
         text-align: left;
@@ -133,8 +123,7 @@
         align-items: center;
         gap: 2px; /* Tighter spacing between time and status */
     }
-   
-    /* Local Time Styling */
+       /* Local Time Styling */
     .match-local-time {
         font-size: 0.875rem;
         font-weight: 600;
@@ -233,8 +222,7 @@
       box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* Re-added light shadow */
       color: inherit;
     }
-   
-    /* Dark Mode DMCA and Footer Background overrides */
+       /* Dark Mode DMCA and Footer Background overrides */
     .dark .dmca-section, .dark .footer {
         background: #1f2937; /* Darker background */
         box-shadow: 0 4px 10px rgba(0,0,0,0.5);
@@ -256,6 +244,7 @@
     }
     input:checked + .slider { background: #3b82f6; }
     input:checked + .slider:before { transform: translateX(22px); }
+
   /* === UNIQUE CLASSES - NO CONFLICTS === */
   .tgx-popup-overlay {
     display: none;
@@ -338,13 +327,11 @@
     display: flex;
   }
   </style>
- 
-    <!-- CRITICAL FIX: Added /adsbygoogle.js to the source URL to ensure the AdSense library loads correctly -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous"></script>
-   
-</head>
+
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5525538810839147" crossorigin="anonymous"></script>
+
+   </head>
 <body class="bg-gray-100 text-gray-900">
-<!-- Header and Logo -->
 <header>
     <div class="header-container">
         <a href="https://www.yosin-tv.net/">
@@ -356,41 +343,47 @@
         </label>
     </div>
 </header>
-   
-<main style="padding-top: 78px;">
+
+   <main style="padding-top: 78px;">
     <center class="my-3">
         <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5525538810839147"
             data-ad-slot="4345862479" data-ad-format="auto" data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </center>
+
     <div class="match-schedule-container">
         <a href="/?ads=link" class="blinking-dot-container" style="display:inline-flex;align-items:center;gap:10px;font-family:Arial,sans-serif;font-size:16px;font-weight:bold;text-decoration:none;color:#333;transition:color 0.3s ease;width:100%;margin:0;padding:10px 0;text-align:center;box-sizing:border-box;border:2px solid #333;border-radius:10px;justify-content:center;" onmouseover="this.style.color='#ff0000'" onmouseout="this.style.color='#333'"><span style="width:10px;height:10px;background-color:red;border-radius:50%;animation:blink 1s infinite;"></span> Watch Football Matches: Click Here</a><style>@keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:1}}</style>
+
         <h2 class="league-title"> Upcoming Cricket Matches</h2>
         <div id="cricket-list" class="match-schedule-list">
-        <!-- Match cards will be inserted here. Removed initial loading text for a natural load. -->
         </div>
+
         <center class="my-5">
             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5525538810839147"
                 data-ad-slot="4345862479" data-ad-format="auto" data-full-width-responsive="true"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </center>
     </div>
-<!-- DMCA and Footer Sections -->
-    <section class="dmca-section">
+
+<section class="dmca-section">
         <h2 class="text-2xl font-bold mb-3">YoSinTV - DMCA Notice</h2>
         <p class="text-sm leading-relaxed">YoSinTV Doesn't host any media content on it own Site. Our site visitors might use external or third parties services to show content, (Example: Embedding media from sites like Bet365, Dailymotion , Streamable etc ..) We Notify all copyright owners, to discover that the links and media shared by visitors and contained within this site are hosted somewhere else on the web or embedded from other various sites like above.</p>
     </section>
+
     <footer class="footer text-sm">
         <a href="#about" class="text-blue-600 hover:underline mx-2">About</a> •
         <a href="#contact" class="text-blue-600 hover:underline mx-2">Contact</a> •
         <a href="#privacy" class="text-blue-600 hover:underline mx-2">Privacy Policy</a>
     </footer>
 </main>
+
 <script>
     let allMatches = [];
     let updateIntervalId;
+
     // Dark Mode Logic (Kept for user's preference)
     const toggle = document.getElementById('darkModeToggle');
+
     // Set initial state
     const updateTheme = (isDark) => {
         if (isDark) {
@@ -401,18 +394,20 @@
              document.body.classList.add('bg-gray-100', 'text-gray-900');
         }
     };
+
     if (localStorage.getItem('darkMode') === 'true') {
         updateTheme(true);
         toggle.checked = true;
     } else {
         updateTheme(false);
     }
-   
+
     toggle.addEventListener('change', () => {
         const isChecked = toggle.checked;
         updateTheme(isChecked);
         localStorage.setItem('darkMode', isChecked);
     });
+
     /**
      * Formats an ISO date string into a readable local time string (e.g., 6:30 PM).
      * This also removes any risk of displaying 'undefined'.
@@ -427,17 +422,19 @@
             return 'Time TBD';
         }
     }
+
     /**
      * Updates the text content and class of the countdown/status elements only.
      * This runs every second to prevent continuous DOM re-rendering (flicker).
      */
     function updateCountdownDisplay() {
         const now = Date.now();
-       
+
         document.querySelectorAll('.match-status').forEach(el => {
             const start = new Date(el.dataset.time).getTime();
             const duration = (parseInt(el.dataset.duration) || 2) * 3600000;
             const end = start + duration;
+
             if (now >= end) {
                 el.textContent = 'END';
                 if (!el.classList.contains('match-status-over')) {
@@ -453,7 +450,7 @@
                 const d = Math.floor(diff / (1000 * 60 * 60 * 24));
                 const h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
                 const m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-               
+
                 let countdownText = '';
                 if (diff < 0) {
                      countdownText = 'Starting Soon';
@@ -465,7 +462,7 @@
                     const s = Math.floor((diff % (1000 * 60)) / 1000);
                     countdownText = `${m}m ${s}s`;
                 }
-               
+
                 el.textContent = countdownText;
                 if (!el.classList.contains('match-status-countdown')) {
                     el.className = 'match-status match-status-countdown';
@@ -473,23 +470,24 @@
             }
         });
     }
+
     // Generates the match card HTML
     function createCard(m) {
         const detailsUrl = m.details_url || '#';
         const league = m.competition || m.league || ''; // Support both fields
         const team1Name = m.team1 || 'Home Team TBD';
         const team2Name = m.team2 || 'Away Team TBD';
-       
+
         const placeholderImg = "https://placehold.co/48x48/ccc/333?text=L";
         const team1Logo = m.team1_logo || placeholderImg;
         const team2Logo = m.team2_logo || placeholderImg;
-       
+
         const logoOnError = `this.onerror=null;this.src='${placeholderImg}';`;
-       
+
         const localTime = formatMatchTime(m.start || m.match_time);
 
         // Full-width league bar (only if league exists)
-        const leagueBar = league ? 
+        const leagueBar = league ?
             `<div class="match-league-bar"><p>${league}</p></div>` : '';
 
         const a = document.createElement('a');
@@ -498,7 +496,7 @@
         a.target = '_blank';
         a.dataset.time = m.start || m.match_time;
         a.dataset.duration = m.duration || 2;
-       
+
         a.innerHTML = `
             <div class="match-card-content">
                 <div class="match-row-teams">
@@ -506,7 +504,7 @@
                         <p class="match-team-name">${team1Name}</p>
                         <img src="${team1Logo}" alt="${team1Name}" onerror="${logoOnError}">
                     </div>
-                   
+
                     <div class="match-center">
                         <p class="match-local-time">${localTime}</p>
                         <p class="match-status" data-time="${m.start || m.match_time}" data-duration="${m.duration || 2}">Loading...</p>
@@ -521,6 +519,7 @@
         `;
         return a;
     }
+
     /**
      * Creates the mobile-only ad element with the user-specified slot ID.
      */
@@ -530,10 +529,11 @@
         adContainer.innerHTML = ` `;
         return adContainer;
     }
+
     function renderMatches() {
         const list = document.getElementById('cricket-list');
         list.innerHTML = '';
-       
+
         allMatches.forEach((match, index) => {
             list.appendChild(createCard(match));
             if ((index + 1) % 0 === 0 && index < allMatches.length - 1) {
@@ -547,15 +547,15 @@
             }
         });
     }
-   
+
     function sortAndInitialRender(matchesArray) {
         const now = Date.now();
-       
+
         allMatches = matchesArray.map(m => {
             const startTime = new Date(m.start || m.match_time).getTime();
             const duration = (parseInt(m.duration) || 2) * 3600000;
             const endTime = startTime + duration;
-   
+
             if (now >= startTime && now < endTime) {
                 m.sortPriority = 1;
                 m.sortValue = startTime;
@@ -568,14 +568,15 @@
             }
             return m;
         });
-   
+
         allMatches.sort((a, b) => {
             if (a.sortPriority !== b.sortPriority) return a.sortPriority - b.sortPriority;
             return a.sortValue - b.sortValue;
         });
-   
+
         renderMatches();
     }
+
     async function loadMatches() {
         if (updateIntervalId) clearInterval(updateIntervalId);
         const apiUrl = 'https://yosintv-api.pages.dev/api/cricket.json';
@@ -586,26 +587,54 @@
             if (!res.ok) {
                 throw new Error(`API failed with status: ${res.status}.`);
             }
-           
+
             const data = await res.json();
-            let matchesArray = [];
+            let rawMatches = [];
             if (Array.isArray(data) && data.length > 0 && Array.isArray(data[0]?.matches)) {
-                matchesArray = data[0].matches;
+                rawMatches = data[0].matches;
             } else if (data && Array.isArray(data.matches)) {
-                matchesArray = data.matches;
+                rawMatches = data.matches;
             } else if (Array.isArray(data)) {
-                 matchesArray = data;
+                 rawMatches = data;
             }
-            if (matchesArray.length === 0) {
+
+            // === REPEAT LOGIC ===
+            let processedMatches = [];
+            rawMatches.forEach(m => {
+                processedMatches.push(m);
+                const repeatCount = parseInt(m.repeat) || 1;
+                if (repeatCount > 1) {
+                    const baseDate = new Date(m.start || m.match_time);
+                    for (let i = 1; i < repeatCount; i++) {
+                        let cloned = JSON.parse(JSON.stringify(m));
+                        let nextDate = new Date(baseDate);
+                        nextDate.setDate(baseDate.getDate() + i);
+                        cloned.start = nextDate.toISOString();
+                        if (cloned.competition) cloned.competition += ` (Day ${i+1})`;
+                        processedMatches.push(cloned);
+                    }
+                }
+            });
+
+            // === FILTER FINISHED MATCHES ===
+            const now = Date.now();
+            const upcomingMatches = processedMatches.filter(m => {
+                const startTime = new Date(m.start || m.match_time).getTime();
+                const duration = (parseInt(m.duration) || 2) * 3600000;
+                const endTime = startTime + duration;
+                return now < endTime; // Keep if current time is BEFORE end time
+            });
+
+            if (upcomingMatches.length === 0) {
                 list.innerHTML = '<p class="text-center text-xl font-semibold text-gray-500 py-10">No upcoming matches found.</p>';
                 return;
             }
-           
-            sortAndInitialRender(matchesArray);
-           
+
+            sortAndInitialRender(upcomingMatches);
+
             updateCountdownDisplay();
             updateIntervalId = setInterval(updateCountdownDisplay, 1000);
-           
+
         } catch (e) {
             console.error(`Error loading matches: ${e.message}`);
             list.innerHTML = '<p class="text-center text-xl font-semibold text-red-600 py-10">❌ Match List are loading, Please Wait !! </p>';
@@ -614,6 +643,7 @@
     }
     document.addEventListener('DOMContentLoaded', loadMatches);
 </script>
+
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <div id='fixedban' class='fixed bottom-0 left-1/2 -translate-x-1/2 z-[999]'>
     <div class='relative w-[300px] h-[250px] bg-white rounded-lg shadow-xl border border-gray-200'>
@@ -624,13 +654,13 @@
       </div>
     </div>
   </div>
-   
-  <script type='text/javascript'>
+
+    <script type='text/javascript'>
     $(document).ready(function() {
       $('#close-fixedban').click(function() { $('#fixedban').hide(90); });
     });
   </script>
-<!-- Telegram Popup - Zero conflicts with your existing CSS -->
+
 <div class="tgx-popup-overlay" id="tgxPopup">
   <div class="tgx-popup-box">
     <button class="tgx-close-btn" onclick="closeTgxPopup()">×</button>
@@ -647,23 +677,28 @@
     </a>
   </div>
 </div>
+
 <script>
   const tgxPopup = document.getElementById('tgxPopup');
   const STORAGE_KEY = 'tgxPopupLastShown';
   const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+
   function shouldShowPopup() {
     const lastShown = localStorage.getItem(STORAGE_KEY);
     if (!lastShown) return true;
     const timeDiff = Date.now() - parseInt(lastShown);
     return timeDiff >= ONE_DAY_MS;
   }
+
   function markAsShown() {
     localStorage.setItem(STORAGE_KEY, Date.now().toString());
   }
+
   function closeTgxPopup() {
     tgxPopup.classList.remove('tgx-active');
     markAsShown();
   }
+
   window.addEventListener('load', function () {
     if (shouldShowPopup()) {
       setTimeout(() => {
@@ -672,18 +707,17 @@
       }, 1200);
     }
   });
+
   tgxPopup.addEventListener('click', function (e) {
     if (e.target === tgxPopup) closeTgxPopup();
   });
 </script>
-   
-   
-<!-- BEGIN: Powered by Supercounters.com -->
+
       <div style="position:fixed;top:0;left:0;width:100%;height:1px;overflow:hidden;visibility:hidden;z-index:9999;">
     <script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script>
     <script type="text/javascript">sc_online_i(1714446,"ffffff","ffffff");</script>
     <noscript><a href="https://www.supercounters.com/" style="visibility:hidden;">free online counter</a></noscript>
   </div>
-   
-</body>
+
+   </body>
 </html>
