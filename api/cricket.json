@@ -18,7 +18,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/melbournestars.png",
             "league": "Big Bash League",
             "start": "2025-12-26T16:05:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=sydneysixers",
+            "details_url": "https://www.cricfoot.net/match?yosintv=bbl",
             "duration": 5
         },
         {
@@ -38,7 +38,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/hobarthurricanes.png",
             "league": "Big Bash League",
             "start": "2025-12-26T19:15:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=perthscorchers",
+            "details_url": "https://www.cricfoot.net/match?yosintv=bbl",
             "duration": 5
         }
     ]
