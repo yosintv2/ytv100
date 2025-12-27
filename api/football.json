@@ -99,6 +99,36 @@
             "start": "2025-12-28T20:30:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=acmilan",
             "duration": 2.2
+        },
+        {
+            "team1": "Senegal",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
+            "team2": "DR Congo",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
+            "league": "Africa Cup of Nations",
+            "start": "2025-12-28T00:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=senegal",
+            "duration": 2.2
+        },
+        {
+            "team1": "Uganda",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5890.png",
+            "team2": "Tanzania",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7941.png",
+            "league": "Africa Cup of Nations",
+            "start": "2025-12-28T02:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=uganda",
+            "duration": 2.2
+        },
+        {
+            "team1": "Nigeria",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6346.png",
+            "team2": "Tunisia",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
+            "league": "Africa Cup of Nations",
+            "start": "2025-12-28T05:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=nigeria",
+            "duration": 2.2
         }
     ]
 }
