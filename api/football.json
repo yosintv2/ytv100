@@ -27,7 +27,7 @@
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "league": "EPL",
             "start": "2026-01-02T05:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=sunderland",
+            "details_url": "https://www.cricfoot.net/match?yosintv=mancity",
             "duration": 2.2
         },
         {
@@ -37,7 +37,7 @@
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
             "league": "EPL",
             "start": "2026-01-02T05:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=brentford",
+            "details_url": "https://www.cricfoot.net/match?yosintv=tottenham",
             "duration": 2.2
         }
     ]
